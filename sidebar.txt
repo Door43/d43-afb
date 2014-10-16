@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[afb:home|Door43 (afb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-afb|d43-afb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-afb/archive/master.zip|d43-afb.zip]]
+
+**Recent Changes**
+{{changes>ns = afb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/afb|Ethnologue data]]
+
